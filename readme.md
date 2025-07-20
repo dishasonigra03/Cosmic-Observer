@@ -24,7 +24,7 @@ The application is divided into five main pages, each serving a unique purpose.
 The landing page provides an engaging entry point to the application.
 *   **Functionality:** It features a full-screen, animated 3D background with interactive stars and a rotating torus knot. It serves as a navigational hub with prominent links to the four main data pages.
 *   **Technology:** `react-three-fiber/drei` for the 3D animation and `react-router-dom` for navigation links.
-*   ![This is home page](screen1.jpg)
+*   ![HomePage](screen1.jpg)
 
 ### 2. ISS Real-time 3D Tracker (`/iss-tracker`)
 
